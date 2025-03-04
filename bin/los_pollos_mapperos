@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require "los_pollos_mapperos"
+LosPollosMapperos::CLI.run
