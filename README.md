@@ -34,7 +34,7 @@ From Source
 Clone the repository and build the gem:
 
 ```
-git clone https://github.com/your_repo/los_pollos_mapperos.git
+git clone https://github.com/michalwiacek/los_pollos_mapperos.git
 cd los_pollos_mapperos
 gem build los_pollos_mapperos.gemspec
 gem install los_pollos_mapperos-0.1.0.gem
